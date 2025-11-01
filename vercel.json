@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "name": "rad-consultancy",
+  "public": true,
+  "routes": [
+    {
+      "src": "^/services$",
+      "dest": "/services.html"
+    },
+    {
+      "src": "^/about$",
+      "dest": "/about.html"
+    },
+    {
+      "src": "^/contact$",
+      "dest": "/contact.html"
+    },
+    {
+      "src": "^/faq$",
+      "dest": "/faq.html"
+    },
+    {
+      "src": "^/pricing$",
+      "dest": "/pricing.html"
+    },
+    {
+      "src": "^/privacy$",
+      "dest": "/privacy.html"
+    },
+    {
+      "src": "^/terms$",
+      "dest": "/terms.html"
+    },
+    {
+      "src": "^/kyc-aml$",
+      "dest": "/kyc-aml.html"
+    },
+    {
+      "src": "^/service-accessibility$",
+      "dest": "/service-accessibility.html"
+    },
+    {
+      "src": "^/refund$",
+      "dest": "/refund.html"
+    },
+    {
+      "src": "^/legal$",
+      "dest": "/legal.html"
+    },
+    {
+      "src": "^/copyright$",
+      "dest": "/copyright.html"
+    }
+  ],
+  "github": {
+    "enabled": false
+  }
+}
